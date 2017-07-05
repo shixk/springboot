@@ -1,0 +1,12 @@
+server:
+  port: 8082
+spring:
+  application:
+    name: AuthorityAppService
+  data:
+    mongodb:
+      host: 10.120.121.33
+      port: 27017
+      username: mspadmin
+      password: abcd-1234
+      database: msp
